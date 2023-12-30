@@ -2,28 +2,15 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Eric's Cloud Journey
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+Hi everyone! I'm Eric, a Network Engineer and Systems Administrator passionate about security and cloud technologies. I'm excited to share my journey with #100DaysOfCloud! 🚀 
 
-## [✍️ Your Name]'s Cloud Journey
+I embarked on the #100DaysOfCloud challenge to further expand my cloud knowledge, specifically in Microsoft Azure. With my background in IT and a keen interest in optimizing cloud infrastructure, I saw this challenge as a perfect opportunity to deepen my expertise and stay ahead in the rapidly evolving tech landscape.
 
-[✍️ Introduce yourself]
+By the end of this challenge, I aim to have a robust understanding of Azure services, particularly in security and optimization. I'm also targeting the AZ-500 certification to solidify my skills and contribute more effectively to my organization's cloud strategy and operations.
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- I'll be sharing my updates on my [LinkedIn](https://www.linkedin.com/in/ericrihm)
 
 ## Stepping out the door
 

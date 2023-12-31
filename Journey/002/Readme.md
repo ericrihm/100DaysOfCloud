@@ -7,7 +7,7 @@
 
 ## Use Case
 
-- Utilizing Terraform and Azure, I efficiently deployed a static website.
+- Utilizing Terraform and Azure, I efficiently deployed a static website. I learned to setup variables to prevent hard coding values and how to deploy to Azure with a provider.
 
 ## Cloud Research
 

@@ -15,7 +15,10 @@ This project serves as a cloud-based showcase of professional credentials, offer
 
 I deepened my understanding of Azure Functions and serverless architecture, gaining hands-on experience in automating deployment using GitHub Actions for CI/CD. Coding in .NET 6, I enhanced my technical skills in JSON data representation. A special acknowledgment to [madebygps](https://github.com/madebygps/serverless-resume-api/tree/main) whose resources were instrumental in guiding my learning process.
 
-View my completed resume at https://api.rihm.io/getresume or pull with Thunder
+To view retrieve with a GET request (curl -L or client), you can also utizile the .NET function trigger via browser at https://api.rihm.io/getresume 
+
+![image](https://github.com/ericrihm/100DaysOfCloud/assets/19367455/d176b4f0-8676-4130-ad84-ca8f7f3ce18c)
+
 
 ## Social Proof
 

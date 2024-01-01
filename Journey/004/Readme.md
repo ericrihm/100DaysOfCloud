@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ericrihm/100DaysOfCloud/assets/19367455/7be8720e-6dec-4ff0-b174-7fa7d57a1957)
 
-# Terraform and AWS
+# Learning AWS w/ Terraform
 
 ## Introduction
 
@@ -28,6 +28,4 @@ With the enviroment variables set I was able to run my terraform plan to confirm
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7147668381247111168/)

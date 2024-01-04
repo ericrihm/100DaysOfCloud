@@ -18,7 +18,7 @@ By the end of this challenge, I aim to have a robust understanding of Azure serv
 - [✔️] ☁️ 2 > [Azure & Terraform](Journey/002/Readme.md)
 - [✔️] ☁️ 3 > [Serverless Azure Resume API](Journey/003/Readme.md)
 - [✔️] ☁️ 4 > [Learning AWS w/ Terraform](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [✔️] ☁️ 5 > [AzureGoat](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)

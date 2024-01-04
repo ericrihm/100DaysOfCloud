@@ -28,6 +28,4 @@ To deploy the infrastructure I used Terraform to create all the neccesary Azure 
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/ericrihm_github-ine-labsazuregoat-azuregoat-activity-7148789905769250816-D7TP?utm_source=share&utm_medium=member_desktop)

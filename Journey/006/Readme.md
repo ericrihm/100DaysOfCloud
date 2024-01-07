@@ -1,49 +1,30 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![image](https://github.com/ericrihm/100DaysOfCloud/assets/19367455/7fdaee70-3511-4f4d-a636-8cbcfd03bc5b)
+
+
+# AzureGoat: Insecure Object Reference (IDOR)
 
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
 - ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
+I created a test user and proceeded to change the password and check the payload sent
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+![image](https://github.com/ericrihm/100DaysOfCloud/assets/19367455/0b8725fc-fc90-4ab7-ac09-a023f34181ee)
 
-## Try yourself
+- We can see there is a field id: "8" that may refer to the specific user
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+<br>I then fired up BurpSuite and used intercepter to capture this request. I then forwarded it to repeater to modify the ID field and see what response we get.
+- At first I kept getting authetntication errors thinking this wasn't possible, but I changed the value back to the original and sitll got the same error.
+After re-enabling intercepter and capturing the request possible I was able to successfully forward a password change for the user John Doe!
 
-### Step 1 — Summary of Step
+![image](https://github.com/ericrihm/100DaysOfCloud/assets/19367455/9c0171f0-ec1d-4fad-b0ff-69df60059a65)
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 

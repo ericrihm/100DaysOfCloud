@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Today I began exploring the AzureGoat lab and checking for vulnerabilities
+Today I began exploring the AzureGoat lab to check for vulnerabilities
 
 ## Cloud Research
 I created a test user and proceeded to change the password and check the payload sent
@@ -28,7 +28,4 @@ Looking forward to exploring other misconifigurations in this lab!
 
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn](https://www.linkedin.com/posts/ericrihm_insecure-direct-object-reference-prevention-activity-7149854714950483968-xEJe?utm_source=share&utm_medium=member_desktop)

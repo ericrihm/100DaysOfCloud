@@ -10,7 +10,7 @@ I embarked on the #100DaysOfCloud challenge to further expand my cloud knowledge
 
 By the end of this challenge, I aim to have a robust understanding of Azure services, particularly in security and optimization. I'm also targeting the AZ-500 certification to solidify my skills and contribute more effectively to my organization's cloud strategy and operations.
 
-- I'll be sharing my updates on my [LinkedIn](https://www.linkedin.com/in/ericrihm)
+- I'll be sharing my updates on [LinkedIn](https://www.linkedin.com/in/ericrihm)
 
 ## Stepping out the door
 
@@ -19,7 +19,7 @@ By the end of this challenge, I aim to have a robust understanding of Azure serv
 - [✔️] ☁️ 3 > [Serverless Azure Resume API](Journey/003/Readme.md)
 - [✔️] ☁️ 4 > [Learning AWS w/ Terraform](Journey/004/Readme.md)
 - [✔️] ☁️ 5 > [AzureGoat](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [✔️] ☁️ 6 > [AzureGoat: IDOR](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
